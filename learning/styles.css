@@ -1,0 +1,78 @@
+.city {
+	background-color: tomato;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+	font-size: 200%;
+}
+
+.left {
+	text-align: left;
+}
+.spanclass{
+	font-size: 150%;
+	color: red;
+	border: 1px solid brown;
+}
+#something {
+	background-color: black;
+	color: white;
+}
+h3 
+    {background-color: green; color:white}
+h4  
+    {border: 5px solid yellow; padding: 20px}
+
+
+
+a:link {
+	color: green;
+	background-color: transparent;
+	text-decoration: underline;
+
+}
+
+a:visited {
+	color: brown;
+	background-color: transparent;
+	text-decoration: underline;
+
+}
+
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+
+}
+
+a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: underline;
+
+}
+
+table{
+	border:2px solid black;
+	border-collapse: separate;
+}
+th{
+	border:2px solid black;
+	border-collapse: collapse;
+	background-color: cornflowerblue;
+	border-radius:20px;
+}
+td{
+	border:2px solid red;
+	border-collapse: collapse;
+	background-color: cornflowerblue;
+	border-radius:20px;
+}
+
+.classForInpusts {
+	background-color:indigo;
+	color: white;
+}
